@@ -55,7 +55,7 @@ if (confirmed){
             Keyboard.dismiss();
         } } >
         <View style={styles.screen} >
-            <Text style={styles.title} >Strt a New Game!</Text>
+            <Text style={styles.title} >Start a New Game!</Text>
             <Card style={styles.inputContainer}>
                 <Text>Select a Number</Text>
                 <Input
